@@ -1,1 +1,30 @@
+fun main() {
+    
+    //ele serve para comentar apenas uma linha
+    
+    /*
+     * para
+     * comentar
+     * mais
+     * de
+     * uma
+     * linha
+     */
+    //atividade construa um diálogo de 
+    //no mínimo 10 linhas
+    //
+println("Olá Mundo")    
+    println("Argentino_ Hablas español")
+    println("Br_ então tu é campeão del mundo?")
+    println("argentino_ si si!! Messi mejor que Pelé!!")
+    println("Br_ Pelé é uma lenda! jogador caro")
+    println("argentino_ Pero Messi fue 7 veces mejor del mundo, talvez este año lleve la octava!!")
+    
+}
+
+
+
+
+
+
 
