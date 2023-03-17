@@ -274,3 +274,73 @@ fun main() {
         bolo++
     }while(bolo > 520)
 }
+//-----------------------------------------------------------------------
+
+fun main() {
+    
+    var sorvete = 0 
+    /*
+    while(sorvete <= 10){
+        println(sorvete)
+        sorvete++ 
+    }
+    */
+    /*
+    var strogonoff = 0 
+    
+    do{
+        println(strogonoff)
+        strogonoff++
+    }while(strogonoff > 10)
+    */
+    //Exercício ♥ 
+    //
+    // Exiba a porcentagem da bateria descarregando a cada linha no console 
+    // Quando a bateria chegar a 15%, deve ser exibida a porcentagem e também 
+    // o aviso de bateria descarregada, 
+    // Quando a bateria chegar a 0%, deve ser exibida a porcentagem e também 
+    // o aviso de celular desligando usando while ou do..while
+    
+    /*
+    var bateria = 100 
+    
+    while(bateria >= 0){
+        println("${bateria}%")
+        when(bateria){
+            15 -> {println("Celular Descarregando, faça algo!")}
+            0 -> {println("Celular Desligando, dando tchauzinho ☺")}
+        }
+        bateria--
+    }
+    */ 
+    
+    // for - para...
+    //var listaNomes = listOf("Yasmin","Julia", "Renato", "Marca texto da CET", "Eu")
+    /*
+    for(nome in 0..10){
+        println("Yamin")
+    }
+    */
+    
+    // Exercício - Exibir uma tabuada até pelo menos o décimo multiplo de um
+    //  número escolhido(que não seja a do 0, do 1, e do 2), utilizando
+    // o laço for
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
